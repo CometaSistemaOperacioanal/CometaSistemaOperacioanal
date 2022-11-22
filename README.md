@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+
+
 <!--
-**CometaSistemaOperacioanal/CometaSistemaOperacioanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*CometaSistemaOperacioanal** is a ✨ Olá Pessoal, Tudo Bem Me Chamo Cometa esse é meu sistema operacional, Para Varios tipos dispositivo!
+
+Espero que vocês Gostem... 
+
+
+ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
